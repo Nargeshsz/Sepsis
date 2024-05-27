@@ -23,4 +23,3 @@ Predicting sepsis in a clinical setting is a complex task that requires analyzin
 
 When choosing a model, it's important to consider the specific characteristics of your dataset, including size, completeness, and the types of variables available. It's also crucial to perform thorough preprocessing of the data, including handling missing values and normalizing measurements.
 Finally, model performance should be rigorously validated using appropriate cross-validation techniques, and the chosen model should be calibrated to the specific clinical setting to ensure its predictions are reliable and actionable in a real-world healthcare environment.
-![image](https://github.com/Nargeshsz/Sepsis/assets/107874426/e00006ec-8ab2-4fe5-95ca-cac50a768429)
